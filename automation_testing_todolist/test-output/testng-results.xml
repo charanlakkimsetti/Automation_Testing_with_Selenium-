@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-01-19T18:52:58 IST" name="Default suite" finished-at="2026-01-19T18:53:33 IST" duration-ms="34713">
+    <groups>
+    </groups>
+    <test started-at="2026-01-19T18:52:58 IST" name="Default test" finished-at="2026-01-19T18:53:33 IST" duration-ms="34713">
+      <class name="com.in28minutes.webdriver.basics.form.FormElementCheckBoxTest">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.in28minutes.webdriver.basics.form.FormElementCheckBoxTest@36ebc363]" started-at="2026-01-19T18:52:58 IST" name="beforeTest" finished-at="2026-01-19T18:53:00 IST" duration-ms="1629" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="checkACheckBox()[pri:0, instance:com.in28minutes.webdriver.basics.form.FormElementCheckBoxTest@36ebc363]" started-at="2026-01-19T18:53:00 IST" name="checkACheckBox" finished-at="2026-01-19T18:53:08 IST" duration-ms="8431" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkACheckBox -->
+        <test-method signature="readFromACheckBox()[pri:0, instance:com.in28minutes.webdriver.basics.form.FormElementCheckBoxTest@36ebc363]" started-at="2026-01-19T18:53:08 IST" name="readFromACheckBox" finished-at="2026-01-19T18:53:09 IST" duration-ms="88" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readFromACheckBox -->
+        <test-method signature="setAValueIntoCheckBoxElement1()[pri:0, instance:com.in28minutes.webdriver.basics.form.FormElementCheckBoxTest@36ebc363]" started-at="2026-01-19T18:53:09 IST" name="setAValueIntoCheckBoxElement1" finished-at="2026-01-19T18:53:25 IST" duration-ms="16165" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setAValueIntoCheckBoxElement1 -->
+        <test-method signature="unCheckACheckBox()[pri:0, instance:com.in28minutes.webdriver.basics.form.FormElementCheckBoxTest@36ebc363]" started-at="2026-01-19T18:53:25 IST" name="unCheckACheckBox" finished-at="2026-01-19T18:53:33 IST" duration-ms="8254" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- unCheckACheckBox -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.in28minutes.webdriver.basics.form.FormElementCheckBoxTest@36ebc363]" started-at="2026-01-19T18:53:33 IST" name="afterTest" finished-at="2026-01-19T18:53:33 IST" duration-ms="108" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.in28minutes.webdriver.basics.form.FormElementCheckBoxTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
